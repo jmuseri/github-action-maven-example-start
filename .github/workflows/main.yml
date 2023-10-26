@@ -1,6 +1,6 @@
 name: Maven CI/CD dEVoPS2304
 
-on:
+ on:
  push:
     branches: [ master ]
   pull_request:
